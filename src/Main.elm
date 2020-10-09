@@ -22,7 +22,7 @@ type alias Model = Int
 
 init : Model
 init =
-  0
+  99999999999999990
 
 
 
